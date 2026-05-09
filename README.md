@@ -4,3 +4,12 @@ It is a basic web program that uses HTML,CSS & JAVASCRIPT to find GitHub profile
 
 # preview
 ![](profilecheck.png)
+I choose my own profile....,though😂😂
+
+# Built With
+
+  *HTML5▶️for structuring;
+  *CSS3▶️for basic styling:
+  *JAVACRIPT▶️for interactivity;
+
+
